@@ -21,6 +21,7 @@ code {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
+  
 
 }
 
@@ -34,6 +35,8 @@ code {
   align-items: center;
   font-size: 90px;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 11px;
+  box-shadow: rgba(0, 0, 0, 0.295) 0px 5px 15px;
   
 }
 .x {
